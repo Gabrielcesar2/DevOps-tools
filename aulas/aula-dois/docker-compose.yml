@@ -7,3 +7,8 @@ services:
     ports:
       - "9000:80" # A porta 8080 é a que acessamos no navegador
     restart: always
+
+    #git checkout -b Terra-52
+    #git add .
+    #git commit -m "add alterações Terra 52"
+    #git push --set-upstream origin Terra-52
